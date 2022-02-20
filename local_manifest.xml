@@ -7,8 +7,8 @@
           clone-depth="1" />
 
   <!-- Device stuff -->
-  <project path="device/xiaomi/olives" name="Krazy-Goel/device_xiaomi_olives" remote="Krazy-Goel" revision="corvus-12" />
-  <project path="device/xiaomi/sdm439-common" name="Krazy-Goel/device_xiaomi_olives-common" remote="Krazy-Goel" revision="corvus-12" /> 
+  <project path="device/xiaomi/olives" name="Krazy-Goel/device_xiaomi_olives" remote="Krazy-Goel" revision="fluid-12" />
+  <project path="device/xiaomi/sdm439-common" name="Krazy-Goel/device_xiaomi_olives-common" remote="Krazy-Goel" revision="fluid-12" /> 
   <project path="kernel/xiaomi/sdm439" name="Krazy-Goel/kernel_olives" remote="Krazy-Goel" revision="12" />
   <project path="vendor/xiaomi/olives" name="Krazy-Goel/vendor_xiaomi_olives" remote="Krazy-Goel" revision="12" />
   <project path="vendor/xiaomi/sdm439-common" name="Krazy-Goel/vendor_xiaomi_olives-common" remote="Krazy-Goel" revision="12" />
