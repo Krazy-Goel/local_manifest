@@ -33,8 +33,8 @@
   <remove-project name="android_hardware_qcom_media"/>
    <project path="hardware/qcom-caf/msm8996/media" name="hardware_qcom_media" remote="hsx" revision="8.6.2"/>
 
-  <project path="device/xiaomi/olives" name="device_xiaomi_olives" remote="Krazy-Goel" revision="spark-12" />
-  <project path="device/xiaomi/sdm439-common" name="device_xiaomi_olives-common" remote="Krazy-Goel" revision="spark-12" /> 
+  <project path="device/xiaomi/olives" name="device_xiaomi_olives" remote="Krazy-Goel" revision="lightos-12" />
+  <project path="device/xiaomi/sdm439-common" name="device_xiaomi_olives-common" remote="Krazy-Goel" revision="lightos-12" /> 
   <project path="kernel/xiaomi/sdm439" name="kernel_olives" remote="Krazy-Goel" revision="12" />
   <project path="vendor/xiaomi/olives" name="vendor_xiaomi_olives" remote="Krazy-Goel" revision="12" />
   <project path="vendor/xiaomi/sdm439-common" name="vendor_xiaomi_olives-common" remote="Krazy-Goel" revision="12" />
